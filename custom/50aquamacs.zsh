@@ -1,0 +1,1 @@
+export PATH="/Applications/Aquamacs.app/Contents/MacOS/bin:$PATH"
